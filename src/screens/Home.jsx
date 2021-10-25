@@ -2,19 +2,14 @@ import '../styles/Home.css'
 
 const Home = () => {
   return (
-    <div className='center-container'>
+    <div className='home-container'>
       <h1>
-        {/* <Text>U+003C;</Text>
-        <Text>U+003E;</Text> */}
         Hello world! <br />
-        I'm Fanny,
+        I&apos;m Fanny,
         <br />
         web developer
-        {/* <Text>U+003C;</Text>
-        <Text>U+002F;</Text>
-        <Text>U+003E;</Text> */}
       </h1>
-      <h2>FullStack</h2>
+      <h2>FullStack - React.js / Node.js</h2>
     </div>
   )
 }

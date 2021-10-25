@@ -3,6 +3,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  height: 70vh;
 }
 
 ul {
@@ -12,7 +13,7 @@ ul {
 }
 
 li {
-  margin: 50px 0px;
+  margin: 20px 0px;
 }
 
 li a { 
