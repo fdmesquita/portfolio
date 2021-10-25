@@ -1,0 +1,16 @@
+.header-container {
+width: 200px;
+height: 100vh;
+position: fixed;
+top: 0px;
+left: 0px;
+padding: 20px 0px;
+background-color:#181818;
+text-align: center;
+font-weight: 500;
+}
+
+.logo{
+  margin-bottom: 50px;
+  width: 100%;
+}
